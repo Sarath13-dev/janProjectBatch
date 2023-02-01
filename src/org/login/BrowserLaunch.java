@@ -17,6 +17,7 @@ public class BrowserLaunch {
 		System.out.println("Work Done by QA");
 		System.out.println("Work completed by QA");
 		System.out.println("Jenkins");
+		driver.get("https://www.flipkart.com/");
 		
 		
 		
